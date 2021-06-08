@@ -1,3 +1,6 @@
+# Resume
+* [Resume (Last Updated July 2020)](Master_Resume.pdf)
+
 # Companies
 
 * MB Laboratories ltd.
