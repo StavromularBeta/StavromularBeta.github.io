@@ -3,11 +3,11 @@
 
 # Companies
 
-* MB Laboratories ltd.
+* [MB Laboratories ltd.](https://www.mblabs.com/)
   * Laboratory Analyst (Analytical Chemistry): April 2019 - Present
   * Software Developer: April 2019 - Present
   
-* Thorough Games ltd.
+* [Thorough Games ltd.](https://thoroughgames.wordpress.com/)
   * Software and Game development company created by Peter Levett, Tolga Berger, Olay Berger, Liam Poppe, 2020.
   * [Small App: Roast Beef Cooking Calculator (Tolga Berger)](https://play.google.com/store/apps/details?id=com.ThoroughGames.RoastBeefCookingCalculator&hl=en_CA&gl=US)
   * [Small App: Life is a Battery (Tolga Berger)](https://play.google.com/store/apps/details?id=com.ThoroughGamesLtd.LifeAsABattery)
