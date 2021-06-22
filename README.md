@@ -15,6 +15,16 @@
   
 # Projects
 
+## Projects in Progress
+
+* CrystalMB - Full LIMS system in development for MB Laboratories ltd.
+  * [UnifyMB](/UnifyMB/)
+    * Part one of CrystalMB, takes output from various analytical laboratory instruments in .csv and .xml format, converts into one unified data format for entering into a SQL server database.
+  * dbMB (Not yet made)
+    * Part two of CrystalMB, a SQL server database, and a suite of queries to add, organize, and view data. CrystalReports takes information from here for reporting.
+  * ReportsMB (Not yet made)
+    * Part three of CrystalMB, a set of report templates and scripts for CrystalReports that produce certificates of analysis in a variety of formats for clients.
+
 ## Recent Projects
 
 * [Rover (MB Labs)](/Rover/)
