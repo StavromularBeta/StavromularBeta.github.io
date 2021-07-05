@@ -1,5 +1,6 @@
 # Resume
-* [Resume (Last Updated July 2020)](Master_Resume.pdf)
+## [Chemistry Flavour (Last Updated July 2021)](Peter_Levett_Chemistry_Resume_04July2021.pdf)
+## Software Development Flavour (Coming Soon)
 
 # Companies
 
