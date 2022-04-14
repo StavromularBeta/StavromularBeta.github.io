@@ -20,17 +20,15 @@
   
 # Projects
 
-## Projects in Progress
-
-* CrystalMB - Full LIMS system in development for MB Laboratories ltd.
-  * [UnifyMB](/UnifyMB/)
-    * Part one of CrystalMB, takes output from various analytical laboratory instruments in .csv and .xml format, converts into one unified data format for entering into a SQL server database.
-  * dbMB (Not yet made)
-    * Part two of CrystalMB, a SQL server database, and a suite of queries to add, organize, and view data. CrystalReports takes information from here for reporting.
-  * ReportsMB (Not yet made)
-    * Part three of CrystalMB, a set of report templates and scripts for CrystalReports that produce certificates of analysis in a variety of formats for clients.
-
 ## Recent Projects
+
+* [Rover Resources](/RoverResources/)
+  * Ordering and Inventory control software. Contains a core product list that indivudual users can request items from. Admin's can view all shopping carts, and create orders that are then received and converted into inventory records that go in a particular location. Features: Order History, Inventory Tracking, Credential Levels with increasing levels of functionality within program, historical price tracking, and more. Inventory items carry all information the ordering process, which improves traceability.
+
+* [RoverReporting](/RoverReporting/)
+  * Report making program for an Analytical Chemistry laboratory. Receives multiple data inputs (specifically formatted excel templates, .csv files, TargetLynx files) to generate batches of COA's (certificates of analysis) for an analytical and environmental laboratory. Also contains modules for making individual COA's, and a database where analysts can upload batches of data for a particular analyte to a database. This data can then be automatically pulled when making individual COA's.
+
+## Old Projects
 
 * [Rover (MB Labs)](/Rover/)
   * Generates finished COA's (certificates of analysis) from raw analytical data in XML format. Data generated from Waters Instruments MassLynx software.
@@ -39,9 +37,6 @@
 * [EasyTrax (MB Labs)](/EasyTrax/)
   * Generates .WTX files (delimited flat files) from human-readable text files for uploading to WaterTrax, a water quality reporting and tracking software used
     by multiple laboratory clients.
-
-## Old Projects
-
 * [ORDERM8](/ORDERM8/)
   * Tracks delivery customers in a grocery store setting. Predecessor to Cannabase. 
 * [PeoplePortal](/PeoplePortal/)
