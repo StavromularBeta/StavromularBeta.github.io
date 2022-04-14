@@ -4,9 +4,13 @@
 
 # Companies
 
+* [Peter Levett Software Solutions]
+  * Freelance Software Developer: October 2019 - Present
+  * Specializing in Data Conversion, report automation, and simple databases with user friendly interfaces.
+
 * [MB Laboratories ltd.](https://www.mblabs.com/)
-  * Laboratory Analyst (Analytical Chemistry): April 2019 - Present
-  * Software Developer: April 2019 - Present
+  * Laboratory Analyst (Analytical Chemistry): April 2019 - October 2019
+  * Software Developer: April 2019 - October 2019
   
 * [Thorough Games ltd.](https://thoroughgames.wordpress.com/)
   * Software and Game development company created by Peter Levett, Tolga Berger, Olay Berger, Liam Poppe, 2020.
