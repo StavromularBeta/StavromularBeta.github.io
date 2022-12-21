@@ -12,6 +12,6 @@ Create Analytical Chemistry reports by analytes. Allows for data import from .cs
 
 <img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_a.png">
 
-![](https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_b.png?raw=true)
+<img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_b.png">
 
-![](https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_c.png?raw=true)
+<img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_c.png">
