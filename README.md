@@ -8,7 +8,7 @@ last updated: July 2021
 
 ### [Rover Resources](/RoverResources/)
 
-### [Rover Resources](/RoverReporting/)
+### [Rover Reporting](https://github.com/StavromularBeta/RoverReporting/tree/master)
 
 Create Analytical Chemistry reports by analytes. Allows for data import from .csv files based on sample numbers from many batches. Alternatively, create reports by batch for multiple analytes. Matches client metadata to analytical data to produce finished reports. This software was made for MB Laboratories Ltd.
 
