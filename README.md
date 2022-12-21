@@ -1,7 +1,6 @@
-# Resume
-## [Chemistry](Peter_Levett_Chemistry_Resume_04July2021.pdf)
+## [Chemistry Resume (.pdf)](Peter_Levett_Chemistry_Resume_04July2021.pdf)
 last updated: July 2021
-## [Software](Peter_Levett_Programming_Resume_04July2021.pdf)
+## [Software Resume (.pdf)](Peter_Levett_Programming_Resume_04July2021.pdf)
 last updated: July 2021
 
 # Projects
