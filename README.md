@@ -10,4 +10,4 @@ last updated: July 2021
 
 Create Analytical Chemistry reports by analytes. Allows for data import from .csv files based on sample numbers from many batches. Alternatively, create reports by batch for multiple analytes. Matches client metadata to analytical data to produce finished reports. This software was made for MB Laboratories Ltd.
 
-![](RoverReporting.png)
+![](RoverReporting.png | width = 200)
