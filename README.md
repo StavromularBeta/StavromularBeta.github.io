@@ -7,6 +7,11 @@ last updated: July 2021
 # Projects
 
 RoverReporting
-<img src="https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_1.png" width=50% height=50%><img src="https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_3.png" width=50% height=50%>
+<table>
+ <tr>
+   <th><img src="https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_1.png" width=50% height=50%></th>
+   <th><img src="https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_3.png" width=50% height=50%></th>
+ </tr>
+</table> 
 
 Create Analytical Chemistry reports by analytes. Allows for data import from .csv files based on sample numbers from many batches. Alternatively, create reports by batch for multiple analytes. Matches client metadata to analytical data to produce finished reports. This software was made for MB Laboratories Ltd.
