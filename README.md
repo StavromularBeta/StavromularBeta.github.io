@@ -6,7 +6,7 @@ last updated: July 2021
 
 # Projects
 
-### [Rover Resources](/RoverResources/)
+### [Rover Resources](https://github.com/StavromularBeta/RoverResources)
 
 ### [Rover Reporting](https://github.com/StavromularBeta/RoverReporting/tree/master)
 
