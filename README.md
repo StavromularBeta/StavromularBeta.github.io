@@ -10,8 +10,4 @@ last updated: July 2021
 
 Create Analytical Chemistry reports by analytes. Allows for data import from .csv files based on sample numbers from many batches. Alternatively, create reports by batch for multiple analytes. Matches client metadata to analytical data to produce finished reports. This software was made for MB Laboratories Ltd.
 
-<kbd><img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_a.png"></kbd>
-
-<kbd><img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_b.png"></kbd>
-
-<kbd><img src= "https://github.com/StavromularBeta/StavromularBeta.github.io/blob/master/RoverReporting_c.png"></kbd>
+![](RoverResources.png)
