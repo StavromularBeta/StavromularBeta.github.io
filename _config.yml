@@ -2,6 +2,6 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Peter Levett
-description: BSc., University of Victoria, 2017, Earth & Ocean Sciences / Chemistry. Python, SQL, Unity Developer. 
+description: BSc., University of Victoria, 2017, Earth & Ocean Sciences / Chemistry. Python, SQL, Unity Developer. Lover of horrendous colour schemes.
 github:
   repository_url: https://github.com/StavromularBeta
