@@ -12,6 +12,9 @@ last updated: July 2021
 software that tracks the ordering and inventory of standards, media, office supplies, general equipment, chemicals, lab-ware, and any other required items for an analytical chemistry laboratory.
 
 ![](RoverResources_Main.png)
+
+Items received by the lab are ordered by individuals, confirmed by administrators from a shared shopping cart, and are tracked from request to reception. Individual inventory items contain a trail of information that accompanies their lifetime in the laboratory.
+
 ![](RoverResources_SubMenus.png)
 
 ### [Rover Reporting](https://github.com/StavromularBeta/RoverReporting/tree/master)
