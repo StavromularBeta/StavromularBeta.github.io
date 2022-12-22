@@ -11,6 +11,9 @@ last updated: July 2021
 
 software that tracks the ordering and inventory of standards, media, office supplies, general equipment, chemicals, lab-ware, and any other required items for an analytical chemistry laboratory.
 
+![](RoverResources_Main.png)
+![](RoverResources_SubMenus.png)
+
 ### [Rover Reporting](https://github.com/StavromularBeta/RoverReporting/tree/master)
 #### Python
 ##### Tkinter, SQLite3, pandas, numpy, xlsxwriter, openpyxl
