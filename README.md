@@ -35,3 +35,9 @@ Sample tracking database API built to handle incoming samples for testing as per
 
 ![](Cannabase_1.png)
 ![](Cannabase_2.png)
+
+### [EasyTrax](https://github.com/StavromularBeta/EasyTrax)
+#### Python
+##### TKinter, pandas, numpy
+
+EasyTrax is a python module that converts human-readable analytical reports into a delimited ASCII flat file. This file format (.WTX) is used to upload analytical data to the website WaterTrax. Several clients of the lab this software was produced for require their reports to be handled by WaterTrax. WaterTrax data can be entered by hand via a web client. This can be extremely tedious - for example, 12 sampling locations with 50 analytes each is 700 individual pieces of data that need to be hand-entered. EasyTrax files take seconds to create, and a minute to upload.
