@@ -18,12 +18,14 @@ Items received by the lab are ordered by individuals, confirmed by administrator
 ![](RoverResources_SubMenus.png)
 
 ### [Rover Reporting](https://github.com/StavromularBeta/RoverReporting/tree/master)
-#### Python, SQL
+#### Python, SQL, Latex
 ##### Tkinter, SQLite3, pandas, numpy, xlsxwriter, openpyxl
 
 Create Analytical Chemistry reports by analytes. Allows for data import from .csv files based on sample numbers from many batches. Alternatively, create reports by batch for multiple analytes. Matches client metadata to analytical data to produce finished reports. This software was made for MB Laboratories Ltd.
 
 ![](RoverReporting.png)
+
+Software allowed for increased throughput of samples in the laboratory. Examples of reports produced by software in a real world setting can be found at the following link - [the RoverReporting generated results are the potency, pesticides, and toxin results.](https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/public-safety/cannabis/mblabs-results.pdf)
 
 ### [Cannabase](https://github.com/StavromularBeta/Cannabase)
 #### Python, SQL
