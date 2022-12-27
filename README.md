@@ -1,5 +1,6 @@
 Focusing on simple, modular, and functional tkinter based interfaces with SQLite3 databases.
-email Peterlevett@gmail.com for prices and quotes.
+
+Peterlevett@gmail.com for prices and quotes.
 
 ### [Chemistry Resume (.pdf)](Peter_Levett_Chemistry_Resume_04July2021.pdf)
 last updated: July 2021
