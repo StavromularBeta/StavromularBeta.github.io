@@ -48,3 +48,7 @@ EasyTrax is a python module that converts human-readable analytical reports into
 Symplify is a python library designed to work with the Symbiot workstation. It is coupled to a novel workstation setup and also requires the use of the PE Biosystems software. It allows you to make methods much faster than you could with the original software - allowing the user to bypass the original routine builder.
 
 This software was written for the [Hore Group](http://web.uvic.ca/~dkhore/group.html), University of Victoria, Canada.
+
+### [Victoria School Based Weather Station Network](https://www.victoriaweather.ca/about.php)
+
+Developed weather station QC and error checking software for weather stations making up the Victoria School Based Weather Station Network, run by the School of Earth and Ocean Science at the University of Victoria.
