@@ -9,7 +9,7 @@ last updated: July 2021
 ### [Software Resume (.pdf)](Peter_Levett_Programming_Resume_04July2021.pdf)
 last updated: July 2021
 
-# Projects
+# Industry Projects
 
 ### [Rover Resources](https://github.com/StavromularBeta/RoverResources)
 #### Python, SQL 
