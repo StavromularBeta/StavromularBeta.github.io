@@ -41,3 +41,10 @@ Sample tracking database API built to handle incoming samples for testing as per
 ##### TKinter, pandas, numpy
 
 EasyTrax is a python module that converts human-readable analytical reports into a delimited ASCII flat file. This file format (.WTX) is used to upload analytical data to the website WaterTrax. Several clients of the lab this software was produced for require their reports to be handled by WaterTrax. WaterTrax data can be entered by hand via a web client. This can be extremely tedious - for example, 12 sampling locations with 50 analytes each is 700 individual pieces of data that need to be hand-entered. EasyTrax files take seconds to create, and a minute to upload.
+
+### [Symplify](https://github.com/StavromularBeta/Symplify)
+#### Python
+
+Symplify is a python library designed to work with the Symbiot workstation. It is coupled to a novel workstation setup and also requires the use of the PE Biosystems software. It allows you to make methods much faster than you could with the original software - allowing the user to bypass the original routine builder.
+
+This software was written for the [Hore Group](http://web.uvic.ca/~dkhore/group.html), University of Victoria, Canada.
